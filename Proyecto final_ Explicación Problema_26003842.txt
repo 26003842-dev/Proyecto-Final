@@ -1,0 +1,31 @@
+¿Cuál es el problema?
+
+El problema es que la empresa de seguros TK-U hace las cotizaciones manualmente, lo que provoca que:
+
+-Se pierda mucho tiempo
+
+-Solo se puedan hacer pocas cotizaciones al día
+
+-Se retrasen las respuestas a los clientes
+
+-Se pierdan posibles clientes
+
+POr lo cual se necesita un cotizador automático que calcule el precio de forma rápida y correcta.
+
+¿Qué casos se consideran para cambiar el valor de la cotización?
+
+La cotización comienza con un precio base, y este valor cambia según las condiciones:
+
+-Edad del asegurado
+
+-Solo se asegura a personas mayores de 18 años
+
+-Según su edad, se aplica un recargo
+
+-Si el asegurado está casado
+
+-Se toma en cuenta la edad del cónyuge
+
+-Cantidad de hijos
+
+-Por cada hijo se agrega un recargo adicional

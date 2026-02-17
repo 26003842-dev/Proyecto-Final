@@ -1,0 +1,71 @@
+Algoritmo
+
+1. Iniciar el programa.
+
+2. Definir el precio base del seguro.
+
+3. Definir los porcentajes de recargo por edad del asegurado.
+
+4. Definir los porcentajes de recargo por edad del cónyuge.
+
+5. Definir el porcentaje de recargo por cada hijo.
+
+6. Inicializar el recargo total en cero.
+
+7. Solicitar el nombre del asegurado.
+
+8. Solicitar la edad del asegurado.
+
+9. Convertir la edad ingresada a un valor numérico.
+
+10. Solicitar si el asegurado está casado.
+
+11. Convertir la respuesta a mayúsculas.
+
+12. Verificar si la respuesta es SI.
+
+13. Si es SI solicitar la edad del cónyuge.
+
+14. Si es NO continuar sin edad del cónyuge.
+
+15. Convertir la edad del cónyuge a número si fue ingresada.
+
+16. Solicitar si el asegurado tiene hijos o hijas.
+
+17. Convertir la respuesta a mayúsculas.
+
+18. Verificar si la respuesta es “SI”.
+
+19. Si es “SI” solicitar la cantidad de hijos.
+
+20. Si es “NO” asignar la cantidad de hijos como cero.
+
+21. Convertir la cantidad de hijos a número.
+
+22. Verificar el rango de edad del asegurado.
+
+23. Calcular el recargo correspondiente según su rango de edad.
+
+24. Sumar el recargo del asegurado al recargo total.
+
+25. Verificar si el asegurado está casado.
+
+26. Si está casado, verificar el rango de edad del cónyuge.
+
+27. Calcular el recargo correspondiente según la edad del cónyuge.
+
+28. Sumar el recargo del cónyuge al recargo total.
+
+29. Verificar si la cantidad de hijos es mayor que cero.
+
+30. Calcular el recargo por hijos multiplicando el precio base por el porcentaje y por la cantidad de hijos.
+
+31. Sumar el recargo por hijos al recargo total.
+
+32. Calcular el precio final sumando el precio base y el recargo total.
+
+33. Mostrar el nombre del asegurado.
+
+34. Mostrar el recargo total.
+
+35. Mostrar el precio final de la cotización.
